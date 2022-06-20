@@ -36,6 +36,6 @@ public class Algorithms {
                 int x = 1;
             }
         }
-
     }
+    
 }
